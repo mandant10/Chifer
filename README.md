@@ -1,4 +1,4 @@
-# Chifer
+# Chifer - 2020r.
 
 ## Opis
 
