@@ -3,7 +3,7 @@
 ## Opis
 
 Jest to prosty program do szyfrowania, który umożliwia bezpieczne szyfrowanie i odszyfrowywanie danych. Stworzony w 2020 roku.
-
+Stworzony przy pomocy środowiska C++ Builder 6.
 ## Uruchomienie
 
 Aby uruchomić program, wystarczy kliknąć dwukrotnie na plik wykonywalny programu
